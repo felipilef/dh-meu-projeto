@@ -3,3 +3,5 @@ let b = 5
 
 soma = a+b;
 console.log (soma);
+
+console.log (soma + soma);
